@@ -1,4 +1,5 @@
 # imc
+----------------------------------------------------------
 real peso, altura, imc, pesoMin, pesoMax
 		escreva("Digite o seu peso: ")
 		leia(peso)
